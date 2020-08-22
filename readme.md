@@ -23,7 +23,6 @@ The following spaces are governed by the team:
 
 *   GitHub: [github.com/mdx-js](https://github.com/mdx-js)
 *   npm: [npmjs.com/~mdx-js](https://www.npmjs.com/org/mdx-js)
-*   Spectrum: [spectrum.chat/mdx](https://spectrum.chat/mdx)
 
 ## License
 
